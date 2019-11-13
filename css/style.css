@@ -19,6 +19,6 @@ body{
   border-top: 1px solid lightgrey;
 }
 
-#refresh{
+.hidden{
   display: none;
 }
